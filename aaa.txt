@@ -1,0 +1,14 @@
+Line 1: Welcome to Python file handling.
+Line 2: This is a sample text file.
+Line 3: Each line represents a unique entry.
+Line 4: File handling in Python is straightforward.
+Line 5: The 'open' function is key to file operations.
+Line 6: Reading from and writing to files is essential.
+Line 7: Remember to close your files.
+Line 8: The 'with' statement can automate file closure.
+Line 9: Practice makes perfect.
+Line 10: End of the sample file.Hello, Python!
+
+this is new text
+this is new line
+this is another line
